@@ -17,4 +17,4 @@
 
 
 
-[linkedin]: www.linkedin.com/in/jamar-johnson-925aa9199
+[linkedin]: <a href="www.linkedin.com/in/jamar-johnson-925aa9199">
