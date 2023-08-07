@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jamar, an <a href="www.linkedin.com/in/jamar-johnson-925aa9199">Cybersecurity Undergraduate</a></h1>
+<h1>Hi, I'm Jamar, a <a href="www.linkedin.com/in/jamar-johnson-925aa9199">Cybersecurity Undergraduate</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
