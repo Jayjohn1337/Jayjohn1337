@@ -2,10 +2,8 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-<!-- - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/jayjohn1337/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/jayjohn1337/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/jayjohn1337/ticket-lifecycle) -->
+- <b>Python Automation</b>
+  - [File Organizer](https://github.com/jayjohn1337/file_organizer)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jayjohn1337/configure-ad)
   - [Network Security Groups (NSGs)](https://github.com/jayjohn1337/azure-nsg)
