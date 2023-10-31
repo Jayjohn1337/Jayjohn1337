@@ -4,6 +4,7 @@
 
 - <b>Python Automation</b>
   - [File Organizer](https://github.com/jayjohn1337/file_organizer)
+  <!-- [Phishing URL Detector](https://github.com/jayjohn1337/phishing_url_detector) -->
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jayjohn1337/configure-ad)
   - [Network Security Groups (NSGs)](https://github.com/jayjohn1337/azure-nsg)
